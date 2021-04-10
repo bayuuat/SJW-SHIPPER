@@ -1,0 +1,12 @@
+.warna-hitam{
+    background-color: #202020;
+}
+
+.warna-merah{
+    background-color: #DE463E;
+}
+
+.page-item.active .page-link{
+    background-color: #DE463E;
+    border-color: #DE463E;
+}
